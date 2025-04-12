@@ -64,3 +64,7 @@ The application provides buttons to:
 2. **Save Track Configurations** - Save the current track settings to TOML files
 
 This allows you to edit patterns in the UI and save them for future use.
+
+## Compatibility
+
+This repo is intended for use with the [servo-server](https://github.com/drbh/servo-server) repo that provides the backend for controlling servo motors. Ensure that the server is running and accessible before starting the Leg Studio application.
