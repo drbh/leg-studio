@@ -1,5 +1,11 @@
 # Leg Studio
 
+
+<div align="center">
+<img src="https://github.com/user-attachments/assets/962cf9db-5852-44cb-9129-dd6debc8271b" width="1312">
+</div>
+
+
 A visualization and control application for servo motors, with support for defining servo tracks via TOML configuration files.
 
 ## Features
