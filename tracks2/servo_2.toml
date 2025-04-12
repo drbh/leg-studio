@@ -1,0 +1,15 @@
+# Back Left Knee
+
+# Basic track information
+servo_id = 2
+color = [0, 255, 150]     # RGB color values
+history_duration = 10.0
+max_points = 1000
+
+# Looped pattern configuration
+[pattern]
+enabled = true
+steps = [
+    { target_angle = 120.0, duration = 1.0 },
+    { target_angle = 70.0, duration = 1.0 },
+]
